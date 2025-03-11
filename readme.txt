@@ -1,0 +1,1 @@
+El projecto se ha hecho con django el backend el frontend boostrap, al empezar hay que poner en la terminal 'pip install -r requirements.txt'
